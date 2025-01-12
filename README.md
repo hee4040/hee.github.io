@@ -22,9 +22,9 @@
 - 프로젝트 설명
   - gpt api를 통해 랜덤으로 대화 주제를 받고 이거에 대해 얘기하는 게임
   - ai가 이상형에 대한 글을 그림으로 그려줌 -> 게임의 하나의 옵션으로 선택해서 실행할 수 있음
--개발환경
- - python
- - hugging face diffusers
+- 개발환경
+  - python
+  - hugging face diffusers
 ---
 ## sleep health and lifestyle
 - 프로젝트 설명
