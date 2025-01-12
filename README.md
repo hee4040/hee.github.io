@@ -5,7 +5,8 @@
   - 환승시간을 모두 고려한 최종적인 도착시간을 알려줌
 - 개발환경
   - python
-  ![image](https://github.com/user-attachments/assets/bd06f462-1648-43fe-bcb8-0eca521c7c4a)
+
+   ![image](https://github.com/user-attachments/assets/bd06f462-1648-43fe-bcb8-0eca521c7c4a)
 ---
 ## smart bug trap
 - 프로젝트 설명
@@ -27,6 +28,7 @@
 - 개발환경
   - python
   - hugging face diffusers
+
   ![image](https://github.com/user-attachments/assets/9e807ddc-d26e-4c0d-8e66-c2241769d8e8)
 ---
 ## sleep health and lifestyle
@@ -42,6 +44,5 @@
   - 아픈 상황을 입력하면 그에 맞는 상비약과 그에 대한 주의사항을 알려주는 프로그램을 구현
 - 개발환경
   - python
-  ![image](https://github.com/user-attachments/assets/ab043f3a-3d1a-4f90-8f31-f971309a3897) 
 
-
+   ![image](https://github.com/user-attachments/assets/ab043f3a-3d1a-4f90-8f31-f971309a3897) 
