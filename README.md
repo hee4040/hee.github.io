@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   - c언어
   - 라즈베리파이
   - YOLO
-  ![image](https://github.com/user-attachments/assets/bf51bbfd-0801-40af-beb6-c875020f0a1f)
+  <image width=400 src="https://github.com/user-attachments/assets/bf51bbfd-0801-40af-beb6-c875020f0a1f">
 ---
 ## 💬 game providing conversational material
 - 프로젝트 설명
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   - python
   - hugging face diffusers
 
-  ![image](https://github.com/user-attachments/assets/9e807ddc-d26e-4c0d-8e66-c2241769d8e8)
+  <image width=400 src="https://github.com/user-attachments/assets/9e807ddc-d26e-4c0d-8e66-c2241769d8e8">
 ---
 ## 😴 sleep health and lifestyle
 - 프로젝트 설명
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 - 개발환경
   - python
   - matplotlib
-  ![image](https://github.com/user-attachments/assets/52e07350-5007-4378-b593-9b329672418d)
+  <image width=600 src="https://github.com/user-attachments/assets/52e07350-5007-4378-b593-9b329672418d">
 ---
 ## 💊 emergency medicine recommendation program
 - 프로젝트 설명
@@ -115,4 +115,4 @@ Here are some ideas to get you started:
 - 개발환경
   - python
 
-   ![image](https://github.com/user-attachments/assets/ab043f3a-3d1a-4f90-8f31-f971309a3897) 
+   <image width=450 src="https://github.com/user-attachments/assets/ab043f3a-3d1a-4f90-8f31-f971309a3897">
