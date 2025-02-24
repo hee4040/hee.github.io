@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - 개발환경 
   - python
 
-   <image width=863 src="https://github.com/user-attachments/assets/bd06f462-1648-43fe-bcb8-0eca521c7c4a">
+   <image width=400 src="https://github.com/user-attachments/assets/bd06f462-1648-43fe-bcb8-0eca521c7c4a">
 ---
 ## 🪳 smart bug trap
 - 프로젝트 설명
