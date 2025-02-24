@@ -11,8 +11,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### 🙋🏻‍♀️ I am a College student from South Korea.(soongsil university)<br/>
-  #### 🔥 I aim to become a Cloud AI Engineer.<br/>
+  #### 🙋🏻‍♀️ I am a college student of soongsil university and my major is AI<br/>
+  #### 🔥 I aim to become an app developer or AI researcher.<br/>
   #### 🌱 I am learning about new programming language.<br/>
   #### 😆 I want to meet new people and work with them.
   <br/>
