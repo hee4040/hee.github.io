@@ -3,7 +3,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=240&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=240&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
   
 </div>
 
